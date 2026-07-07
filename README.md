@@ -52,11 +52,6 @@ The project is divided into small, independent functions:
 | `show_scoreboard()` | Displays the current scoreboard |
 | `main()` | Main game loop |
 
-## Future Improvements
-
-- [ ] Automated tests with `unittest`
-- [ ] Best of 3 / Best of 5 mode
-- [ ] Save match history to a file
 
 ## Author
 
@@ -111,11 +106,6 @@ O projeto é dividido em funções pequenas e independentes:
 | `mostrar_placar()` | Exibe o placar atualizado |
 | `main()` | Loop principal do jogo |
 
-## Possíveis melhorias
-
-- [ ] Testes automatizados com `unittest`
-- [ ] Modo melhor de 3 / melhor de 5
-- [ ] Salvar histórico das partidas em um arquivo
 
 ## Autora
 
