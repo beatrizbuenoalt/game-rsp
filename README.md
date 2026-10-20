@@ -1,4 +1,4 @@
-# 🪨📄✂️ Rock, Paper, Scissors (Terminal)
+# Rock, Paper, Scissors (Terminal)
 
 > 🇺🇸 **English below.**  
 > 🇧🇷 **Português logo abaixo.**
